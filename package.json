@@ -1,0 +1,21 @@
+{
+    "name": "general-dark-theme",
+    "displayName": "general-dark-theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "general-dark-theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/general-dark-theme-color-theme.json"
+            }
+        ]
+    }
+}
