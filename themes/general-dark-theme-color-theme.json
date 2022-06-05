@@ -2,6 +2,10 @@
 	"name": "general-dark-theme",
 	"type": "dark",
 	"colors": {
+		"activityBar.foreground": "#41799e",
+		"sideBar.foreground":"#41799e",
+		"sideBar.background": "#111010",
+		"activityBar.background": "#1d1c1c",
 		"editor.background": "#16181a",
 		"editor.foreground": "#2ccccc",
 		"activityBarBadge.background": "#2b4658",
@@ -109,7 +113,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#7eb4fa"
+				"foreground": "#649eeb"
 			}
 		},
 		{
@@ -159,7 +163,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#7aa9ee"
+				"foreground": "#a2afc2"
 			}
 		},
 		{
