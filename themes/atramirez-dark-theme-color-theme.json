@@ -7,7 +7,7 @@
 		"sideBar.background": "#111010",
 		"activityBar.background": "#1d1c1c",
 		"editor.background": "#16181a",
-		"editor.foreground": "#2ccccc",
+		"editor.foreground": "#1aaaaa",
 		"activityBarBadge.background": "#2b4658",
 		"sideBarTitle.foreground": "#ecd0d0"
 	},

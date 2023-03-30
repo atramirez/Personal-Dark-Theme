@@ -1,6 +1,6 @@
 {
-    "name": "general-dark-theme",
-    "displayName": "general-dark-theme",
+    "name": "atramirez-dark-theme",
+    "displayName": "atramirez-dark-theme",
     "description": "",
     "version": "0.0.1",
     "engines": {
@@ -12,9 +12,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "general-dark-theme",
+                "label": "atramirez-dark-theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/general-dark-theme-color-theme.json"
+                "path": "./themes/atramirez-dark-theme-color-theme.json"
             }
         ]
     }
